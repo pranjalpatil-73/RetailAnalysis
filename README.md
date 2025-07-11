@@ -2,7 +2,7 @@
 
 # Kirana Shop Sales Analysis
 
-**Author**: \[Your Name]
+**Author**: \[Pranjal Patil]
 **Role**: Retail Data Analyst – Self-Initiated Project
 **Duration**: Oct 2023 – Dec 2023
 
@@ -86,10 +86,6 @@ Each chart is saved as a .png file for reporting and dashboard use.
 ```
 ├── kirana_sales_data.csv            # Simulated sales data
 ├── kirana_sales_analysis.ipynb     # Jupyter Notebook with full analysis
-├── top_selling_items.png           # Visualization output
-├── monthly_sales_trend.png
-├── profit_by_item.png
-├── sales_by_hour.png
 ```
 
 ---
