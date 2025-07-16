@@ -1,22 +1,24 @@
 # RetailAnalysis
 
-# Kirana Shop Sales Analysis
+# RetailAnalysis
+
+# Local Grocery Shop Sales Analysis
 
 **Author**: \[Pranjal Patil]
 **Role**: Retail Data Analyst – Self-Initiated Project
-**Duration**: Oct 2023 – Dec 2023
+**Duration**: July 2023 – Dec 2023
 
 ---
 
 ## Project Overview
 
-This project simulates and analyzes the daily sales of a local Kirana (grocery) shop over a 3-month period using Python. It covers data generation, cleaning, transformation, and exploratory data analysis (EDA) with clear, actionable business insights. Visualizations and metrics were designed to support smarter inventory, supplier, and sales decisions.
+This project simulates and analyzes the daily sales of a local grocery shop over a 6-month period using Python. It covers data generation, cleaning, transformation, and exploratory data analysis (EDA) with clear, actionable business insights. Visualizations and metrics were designed to support smarter inventory, supplier, and sales decisions.
 
 ---
 
 ## Key Objectives
 
-* Generate realistic transaction-level data for a Kirana shop
+* Generate realistic transaction-level data for a local grocery shop
 * Clean and validate data for accurate analysis
 * Identify best- and worst-performing products
 * Calculate profit margins, monthly sales, and hourly trends
@@ -37,7 +39,7 @@ This project simulates and analyzes the daily sales of a local Kirana (grocery) 
 
 ### Data Generation
 
-* Simulated 3 months of sales data (Oct 2023 to Dec 2023)
+* Simulated 6 months of sales data (July 2023 to Dec 2023)
 * Each record includes: date, time, item, quantity, price, cost, supplier, and bill ID
 
 ### Data Cleaning & Feature Engineering
@@ -50,7 +52,7 @@ This project simulates and analyzes the daily sales of a local Kirana (grocery) 
 
 * Top-selling products by quantity
 * Slow-moving items with least sales
-* Monthly sales trends (Oct to Dec 2023)
+* Monthly sales trends (July to Dec 2023)
 * Profit by product and supplier
 * Hourly sales trends
 * Frequent item combinations (basket analysis by bill)
@@ -126,4 +128,5 @@ If you're interested in data analysis for small business optimization, feel free
 \[LinkedIn] | \[Portfolio] | \[GitHub]
 
 ---
+
 
